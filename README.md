@@ -1,3 +1,11 @@
+## Data Science Intern ( Name- Ishavjot Singh) 
+## Task Description: Analyze a real-world dataset (such as Titanic, Iris, or any Kaggle dataset). Generate insights through visualizations and summary statistics.
+Challenges:
+- Handle missing and duplicate data
+- Visualize key relationships using Matplotlib/Seaborn
+- Write a short report summarizing findings
+Tech Stack: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
 # Titanic Dataset Exploratory Data Analysis
 
 ## Project Overview
